@@ -1,6 +1,8 @@
 # Partially View-aligned Representation Learning via Cross-view Graph Contrastive Network
 This repo contains the demo code and data of our IEEE TCSVT'2024 paper Partially View-aligned Representation Learning via Cross-view Graph Contrastive Network.
 >>IEEE Xplore: [Partially View-aligned Representation Learning via Cross-view Graph Contrastive Network](https://ieeexplore.ieee.org/document/10471595)
+
+Due to file size limitations, we have only uploaded two datasets. If you require additional datasets, please feel free to contact us.
 ## Requirements
 
 pytorch>=2.0.1 
