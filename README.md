@@ -18,9 +18,8 @@ If you find our work useful in your research, please consider citing:
 @ARTICLE{10471595,
   author={Wang, Yiming and Chang, Dongxia and Fu, Zhiqiang and Wen, Jie and Zhao, Yao},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={Partially View-aligned Representation Learning via Cross-view Graph Contrastive Network}, 
+  title={Partially View-Aligned Representation Learning via Cross-View Graph Contrastive Network}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TCSVT.2024.3376720}}
+  volume={34},
+  number={8},
+  pages={7272-7283}}
